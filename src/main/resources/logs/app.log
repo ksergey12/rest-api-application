@@ -1,0 +1,24 @@
+2021-05-21 11:07:13.876  INFO  FioService:38  REQUEST
+2021-05-21 11:07:13.893  INFO  FioService:41  === encryption: 470b80bf4a678a7ac61cfe6c13997673a48fccb2ef02332a749dedc071a917e6
+2021-05-21 11:07:13.893  INFO  FioService:42  === decryption: {"id":1}
+2021-05-21 11:07:13.893  INFO  FioService:44  RESPONSE
+2021-05-21 11:07:13.894  INFO  FioService:47  === encryption: 5243b7f2a4765700f4ba0a2d070b9b9213223d7adbc7ca7bac6c4575416934a8ae062cb5383e69ae30f262f2fae053a1
+2021-05-21 11:07:13.894  INFO  FioService:48  === decryption: {"fio":"Test Testov"}
+2021-05-21 11:07:13.894  INFO  FioService:49  ----------------------------------
+
+2021-05-21 11:07:30.232  INFO  FioService:38  REQUEST
+2021-05-21 11:07:30.236  INFO  FioService:41  === encryption: 24ab9f33ecb00b75a22c3a904c6c5f64ccbff3352903423dc2ad44e148b3980b
+2021-05-21 11:07:30.236  INFO  FioService:42  === decryption: {"id":10}
+2021-05-21 11:07:30.237  INFO  FioService:44  RESPONSE
+2021-05-21 11:07:30.237  INFO  FioService:47  === encryption: a22e9925da8c6cf56af3340a056d9177ca586d4f75fca7f637bfb3ce99d66472
+2021-05-21 11:07:30.237  INFO  FioService:48  === decryption: {}
+2021-05-21 11:07:30.237  INFO  FioService:49  ----------------------------------
+
+2021-05-21 11:07:38.043  INFO  FioService:38  REQUEST
+2021-05-21 11:07:38.044  INFO  FioService:41  === encryption: 8e179394c084712a9e8422970bc14dd1552e94e97e2907753a72b0acf144691e
+2021-05-21 11:07:38.045  INFO  FioService:42  === decryption: {"id":0}
+2021-05-21 11:07:38.045  INFO  FioService:44  RESPONSE
+2021-05-21 11:07:38.045  INFO  FioService:47  === encryption: e6e83cd4a79103979f5948236441688b451cdae6b128f3031a5114340b02db3f
+2021-05-21 11:07:38.045  INFO  FioService:48  === decryption: {}
+2021-05-21 11:07:38.046  INFO  FioService:49  ----------------------------------
+
